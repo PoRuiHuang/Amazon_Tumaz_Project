@@ -3,6 +3,6 @@ Summary of this project is to help Tumaz Inc. (one of the biggest yoga company i
 
 Step 1: Grab the order information from order api automatically. (done)(src repository)
  
-Step 2: Making allocation of some ambiguity fees by coding in language java. (continue)
+Step 2: Making allocation of some ambiguity fees by coding in language java. (done)(balance.java)
 
 Step 3: Making Spring app by using Spring Boot. (continue)  
