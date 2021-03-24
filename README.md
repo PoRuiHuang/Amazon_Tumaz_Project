@@ -5,4 +5,4 @@ Summary of this project is to help Tumaz Inc. (one of the biggest yoga company i
  
 ### Step 2: Making allocation of some ambiguity fees by coding in language java. (done)(balance.java)
 
-### Step 3: Making Spring app by using Spring Boot. (continue)  
+### Step 3: Fetch the data through Finance & Order API and generate the CSV file automatically (done)
